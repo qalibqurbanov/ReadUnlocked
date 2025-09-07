@@ -22,4 +22,4 @@ Follow these steps to install ReadUnlocked on Chromium-based browsers (Chrome, E
 | `Icons` | [https://icons8.com](https://icons8.com) |
 
 # ⚠️ Disclaimer
-The paywall bypass is handled by [Freedium](https://freedium.cfd/), and this extension just makes accessing it quicker and easier.
+The paywall bypass is handled by [Freedium](https://freedium.cfd/) (which is open source: https://codeberg.org/Freedium-cfd/web). My extension simply makes accessing it faster and easier.
